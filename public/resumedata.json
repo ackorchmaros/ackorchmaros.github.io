@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name":"Annachiara Korchmaros",
+    "occupation":"Postdoctoral Researcher",
+    "description":"For the last nine months I have been actively working on two projects in the applied non linear algebra group at Aalto. In my main project, I have been working in reconstructing the 3D DNA structure of diploid organisms using algebraic geometry and polynomial optimization techniques. I have been also working on estimating the dimensionality of the neuronal manifold in mice using an algebraic geometry approach. As side project I have been studying the structure of 2-colored best match graphs.",
+    "image":"profilepic.jpg",
+    "bio":"Thank you for checking out my website. I have a master and doctoral degree in mathematics, and I am particularly interested in applying graph theory, algebraic geometry, and statistics to address issues in neuroscience and genetics. After finishing my doctoral degree, I moved to the US where I graduated with a master in bioinformatics and worked as neuroimaging data analyst for a year. I relocated to Finland to start a post doctorate in mathematics in December 2019, and I have been working in applied non linear algebra and graph theory. Outside work I love spending time with friends and family, meditating, cycling, doing pilates, hiking, and all kind of outdoor activities.",
+    "contactmessage":"I am looking for a second postdoc to start anytime in 2021. Feel free to contact me if you have an opening in your group or a project where my expertises can help!",
+    "email": "annachiara.korchmaros@aalto.fi",
+    "address":{
+      "city": "Helsinki",
+      "state":"Finland"
+    },
+    "website": "http://www.annachiarakorchmaros.com",
+    "resumedownload":"./AnnachiaraResume2020.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/annachiara-korchmaros-4aa772105/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Be open to learn, unlearn and relearn.",
+    "education":[
+      {
+        "school":"Georgia Institute of Technology, Atlanta, US",
+        "degree":"M.S. in Bioinformatics",
+        "graduated":"May 2017",
+        "description":"My first experience in a non-math group and as math teaching assistant."
+      },
+      {
+        "school":"University of Basilicata, International Doctoral Seminar János Bolyai",
+        "degree":"Ph.D. in Mathematics",
+        "graduated":"February 2015",
+        "description":"Learned about DNA rearrangements and studied the Cayley graph associated to DNA transpositions. "
+      },
+      {
+        "school":"University of Perugia, Perugia, Italy",
+        "degree":"M.S. in Mathematics",
+        "graduated":"September 2011",
+        "description":"Studied in particular algebraic geometry and its application to aligning DNA sequences. "
+      },
+      {
+        "school":"University of Perugia, Perugia, Italy",
+        "degree":"B.S. in Mathematics",
+        "graduated":"February 2009",
+        "description":"My first steps toward college mathematics. "
+      }
+    ],
+    "work":[
+      {
+        "company":"Aalto University, Helsinki, Finland",
+        "title":"Postdoctoral Researcher",
+        "years":"December 2019 - present",
+        "description":"I have been actively working on two projects in the applied non linear algebra group at Aalto. In my main project, I have been working in reconstructing the 3D DNA structure of diploid organisms using algebraic geometry and polynomial optimization techniques. I have been also working on estimating the dimensionality of the neuronal manifold in mice using an algebraic geometry approach. As side project I have been studying the structure of 2-colored best match graphs."
+      },
+      {
+	      "company":"Child Mind Institute, New York, US",
+        "title":"Neuroimaging Data Analyst",        
+        "years":"August 2018 - August 2019",
+        "description":"I mastered data analyst skills and learned about neuroscience, in particular neuroimaging."
+      },
+      {
+       "company":"Georgia Institute of Technology, Atlanta, US",
+        "title":"Graduate Teaching Assistant",
+        "years":"August 2015 - August 2017",
+        "description":"Two years of helping students with learning calculus and discrete mathematics."
+      }
+    ],
+    "skills":[
+      {
+        "name":"R",
+        "level":"100%"
+      },
+	    {
+        "name":"Shell scripting",
+        "level":"80%"
+      },
+      {
+        "name":"Magma",
+        "level":"70%"
+      },
+      {
+        "name":"Matlab",
+        "level":"60%"
+      },
+      {
+        "name": "Macualay2",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "FSL",
+        "level": "50%"
+      },
+      {
+        "name":"JMP",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "publication":[
+      {
+        "title":"The Structure of 2-Colored Best Match Graphs",
+        "description1": "A. Korchmaros",
+        "description2":" arXiv doi:2009.00447."
+      },
+      {
+        "title":"Gradient flow framework to guide the optimization of reliability for the study of individual differences",
+        "description1": "J. Cho; A. Korchmaros; J. Vogelstein; M. Milham; T. Xu",
+        "description2":"Poster presented at: Organization of Human Brain Mapping 2020; June 2020; Virtual Conference"
+      },
+      {
+        "title":"Circles and Paths in 2-Colored Best Match Graphs",        
+        "description1": "A. Korchmaros",
+        "description2":"arXiv doi:2006.04100."
+      },
+      {
+        "title":"Impact of concatenating fMRI data on reliability for functional connectomics",        
+        "description1": "J. Cho; A. Korchmaros; J. Vogelstein; M. Milham; T. Xu",
+        "description2":"bioRxiv doi: 10.1101/2019.12.11.123456"
+      },
+      {
+        "title":"Beyond the test-retest reliability: the impact of the intra- and inter-individual variation",        
+        "description1": "A. Korchmaros; J. Cho; A. Heinsfeld; J. Haxby; M. Milham; T. Xu",
+        "description2":"Poster presented at: Organization of Human Brain Mapping 2019; June 2019; Rome, Italy"
+      },
+      {
+        "title":"U-Net Model for Brain Extraction: Training in Humans and Transferring to Non-human Primates",        
+        "description1": "N. Rajamani; X. Wang; J. Cho; A. Korchmaros; L. Ai; A. Omelchenko; C. Craddock; M. Milham; T. Xu",
+        "description2":"Poster presented at: Organization of Human Brain Mapping 2019; June 2019; Rome, Italy"
+      },
+      {
+        "title":"Automorphism groups of Cayley graphs generated by block transpositions and regular Cayley maps",        
+        "description1": "A. Korchmaros; I. Kovacs",
+        "description2":"Discrete Math. 340 (2017), 3125–3139"
+      },
+      {
+        "title":"Tropical properties of alignment matrices",        
+        "description1": "C. Bocci; A. Korchmaros",
+        "description2":"Adv. Appl. Discrete Math. 11 (2013), no. 1, 23–46"
+      }
+    ]
+  }
+}

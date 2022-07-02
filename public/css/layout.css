@@ -244,9 +244,14 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
+   /*padding-top: 90px;*/
    padding-bottom: 72px;
    overflow: hidden;
+}
+
+#work {
+    background: #ebeeee;
+    padding-top: 90px;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -1047,3 +1052,50 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+
+
+/* ------------------------------------------------------------------ */
+/* L. Talks Section
+/* ------------------------------------------------------------------ */
+
+#talks {
+    background: #fff;
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+
+#talks .description1 {
+    margin: 0 0 0 0;
+}
+#talks h1 {
+    font: 18px/24px 'opensans-bold', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 2;
+}
+#talks h1 span {
+    border-bottom: 3px solid #11ABB0;
+    padding-bottom: 6px;
+}
+#talks h3 {
+    font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#talks .header-col { padding-top: 9px; }
+#talks .main-col { padding-right: 10%; }
+
+#talks .info {
+    font: 16px/24px 'librebaskerville-italic', serif;
+    color: #6E7881;
+    margin-bottom: 18px;
+    margin-top: 9px;
+}
+#talks .info span {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#talks .date {
+    font: 15px/24px 'opensans-regular', sans-serif;
+    margin-top: 6px;
+}

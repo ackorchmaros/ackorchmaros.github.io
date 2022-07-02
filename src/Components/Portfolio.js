@@ -10,13 +10,6 @@ class Portfolio extends Component {
             <p>{publication.description2}</p>
         </div>
       });
-
-      const p = this.props.data.publication.map(function(publication){
-        return <div key={publication.title}><h3>{publication.title}</h3>
-            <p className="info">{publication.title}<span>&bull;</span> <em className="date">{publication.date}</em></p>
-            <p>{publication.description}</p>
-        </div>
-      })
     }
 
     return (

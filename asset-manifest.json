@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ackorchmaros.github.io/static/css/main.5facb584.chunk.css",
-    "main.js": "/ackorchmaros.github.io/static/js/main.7dee8f42.chunk.js",
-    "main.js.map": "/ackorchmaros.github.io/static/js/main.7dee8f42.chunk.js.map",
-    "runtime~main.js": "/ackorchmaros.github.io/static/js/runtime~main.d66106af.js",
-    "runtime~main.js.map": "/ackorchmaros.github.io/static/js/runtime~main.d66106af.js.map",
-    "static/js/2.82d857d4.chunk.js": "/ackorchmaros.github.io/static/js/2.82d857d4.chunk.js",
-    "static/js/2.82d857d4.chunk.js.map": "/ackorchmaros.github.io/static/js/2.82d857d4.chunk.js.map",
-    "index.html": "/ackorchmaros.github.io/index.html",
-    "precache-manifest.d4c59233c93314fde645d1a63495172f.js": "/ackorchmaros.github.io/precache-manifest.d4c59233c93314fde645d1a63495172f.js",
-    "service-worker.js": "/ackorchmaros.github.io/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/ackorchmaros.github.io/static/css/main.5facb584.chunk.css.map"
+    "main.css": "/static/css/main.5facb584.chunk.css",
+    "main.js": "/static/js/main.91e4b2dc.chunk.js",
+    "main.js.map": "/static/js/main.91e4b2dc.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.82d857d4.chunk.js": "/static/js/2.82d857d4.chunk.js",
+    "static/js/2.82d857d4.chunk.js.map": "/static/js/2.82d857d4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d04c6ac539f9c54c85e4534211572612.js": "/precache-manifest.d04c6ac539f9c54c85e4534211572612.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/static/css/main.5facb584.chunk.css.map"
   }
 }

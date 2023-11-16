@@ -2,7 +2,7 @@
   "name": "annachiara",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ackorchmaros.github.io/ackorchmaros.github.io",
+  "homepage": "https://ackorchmaros.github.io",
   "dependencies": {
     "jquery": "^3.4.1",
     "react": "^16.8.6",

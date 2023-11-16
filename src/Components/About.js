@@ -26,8 +26,9 @@ class About extends Component {
                <ul id="nav" className="nav">
                   <li className="current"><a className="smoothscroll" href="#about">About</a></li>
                   <li><a className="smoothscroll" href="#portfolio">Publications</a></li>
-                  <li><a className="smoothscroll" href="#talks">Talks</a></li>
+                  <li><a className="smoothscroll" href="#talks">Conferences and Seminars</a></li>
                   <li><a className="smoothscroll" href="#resume">Work</a></li>
+                  <li><a className="smoothscroll" href="#education">Education</a></li>
                   <li><a className="smoothscroll" href="#contact">Contact</a></li>
                </ul>
             </nav>

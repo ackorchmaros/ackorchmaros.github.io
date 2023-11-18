@@ -12,7 +12,11 @@ class Talks extends Component {
     }
     if(this.props.data){
       var talks = this.props.data.talks.map(function(talk){
-        return <div key={talk.title}><a href={talk.title_link}><h3>{talk.title}</h3></a>
+        let title = <a href={talk.title_link}><h3>{talk.title}</h3></a>
+        if (!talk.title_link) {
+          title = <h3>{talk.title}</h3>
+        }
+        return <div key={talk.title}>{title}
             <p class="description1">{talk.description1}</p>
             <p class="description1">{talk.description2}</p>
             {description3(talk.description3,talk.description_3_link)}

@@ -5,7 +5,13 @@ class Portfolio extends Component {
 
     if(this.props.data){
       var publications = this.props.data.publication.map(function(publication){
-        return <div key={publication.title}><a href={publication.link}><h3>{publication.title}</h3></a>
+        if (publication.link) {
+          return <div key={publication.title}><a href={publication.link}><h3>{publication.title}</h3></a>
+            <p class="description1">{publication.description1}</p>
+            <p>{publication.description2}</p>
+        </div>
+        }
+        return <div key={publication.title}><h3>{publication.title}</h3>
             <p class="description1">{publication.description1}</p>
             <p>{publication.description2}</p>
         </div>

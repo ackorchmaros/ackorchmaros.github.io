@@ -117,12 +117,6 @@
   "portfolio": {
     "publication": [
       {
-        "title": "Solving inconsistencies between gene trees and species trees for the recon- struction of whole-genome evolutionary scenarios",
-        "description1": "Korchmaros A, Schaller D, Hellmuth M, Stadler PF",
-        "description2": "Poster presented at: XIII International Conference of the Iberoamerican Society of Bioinformatics; November 2023; Rosario, Argentina",
-        "link": ""
-      },
-      {
         "title": "3D genome reconstruction from partially phased Hi-C data",
         "description1": "D. Cifuentes; J. Draisma, O. Henriksson; A. Korchmaros; K. Kubjas",
         "description2": "arXiv doi:2301.11764, in press (2023)",
@@ -183,6 +177,12 @@
   },
   "talks": {
     "talks": [
+      {
+        "title": "Solving inconsistencies between gene trees and species trees for the reconstruction of whole-genome evolutionary scenarios",
+        "description2": "J. A. R. Rafael; A. Korchmaros; P. F. Stadler; M. H. Rosales",
+        "description1": "Poster presented at: XIII International Conference of the Iberoamerican Society of Bioinformatics; November 2023; Rosario, Argentina",
+        "title_link": ""
+      },
       {
         "title": "19th Herbstseminar der Bioinformatik 2023",
         "description1": "Guest Speaker",

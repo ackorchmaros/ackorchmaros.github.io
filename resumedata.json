@@ -12,7 +12,7 @@
       "state": "Germany"
     },
     "website": "http://www.annachiarakorchmaros.com",
-    "resumedownload": "./AnnachiaraResume2022.pdf",
+    "resumedownload": "./AnnachiaraResume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -72,12 +72,20 @@
         "company": "Georgia Institute of Technology, Atlanta, US",
         "title": "Graduate Teaching Assistant",
         "years": "August 2015 - August 2017",
-        "description": "Two years of helping students with learning calculus and discrete mathematics."
+        "description": "Planed and executed lessons for up to 60 students and graded all assignments and exams"
       }
     ],
     "skills": [
       {
+        "name": "GitHub",
+        "level": "100%"
+      },
+      {
         "name": "R",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
         "level": "100%"
       },
       {
@@ -85,20 +93,16 @@
         "level": "80%"
       },
       {
-        "name": "Magma",
-        "level": "70%"
+        "name": "Matlab",
+        "level": "80%"
       },
       {
-        "name": "Matlab",
+        "name": "Magma",
         "level": "70%"
       },
       {
         "name": "Macualay2",
         "level": "60%"
-      },
-      {
-        "name": "Python",
-        "level": "70%"
       },
       {
         "name": "FSL",
@@ -112,6 +116,18 @@
   },
   "portfolio": {
     "publication": [
+      {
+        "title": "Solving inconsistencies between gene trees and species trees for the recon- struction of whole-genome evolutionary scenarios",
+        "description1": "Korchmaros A, Schaller D, Hellmuth M, Stadler PF",
+        "description2": " arXiv preprint arXiv:2109.10235. 2021 Sep 21.",
+        "link": "https://arxiv.org/abs/2109.10235"
+      },
+      {
+        "title": "3D genome reconstruction from partially phased Hi-C data",
+        "description1": "D. Cifuentes; J. Draisma, O. Henriksson; A. Korchmaros; K. Kubjas",
+        "description2": "arXiv doi:2301.11764, in press (2023)",
+        "link": "https://arxiv.org/abs/2301.11764"
+      },
       {
         "title": "Quasi-Best Match Graphs",
         "description1": "Korchmaros A, Schaller D, Hellmuth M, Stadler PF",
@@ -168,10 +184,58 @@
   "talks": {
     "talks": [
       {
+        "title": "19th Herbstseminar der Bioinformatik 2023",
+        "description1": "Guest Speaker",
+        "description2": "Bioinformatics Group and Computational EvoDevo Group in Leipzig",
+        "description3": "Orthology Pipeline: Project and Realization",
+        "title_link": "",
+        "description_3_link": ""
+      },      
+      {
+        "title": "Hybrid: SIAM Conference on Applied Algebraic Geometry (AG23) 2023",
+        "description1": "Invited Minisymposium Speaker",
+        "description2": "SIAM Activity Group on Algebraic Geometry",
+        "description3": "How to 3D-reconstruct the genome from partially phased data",
+        "title_link": "",
+        "description_3_link": ""
+      },      
+      {
+        "title": "10th Slovenian Conference on Graph Theory 2023",
+        "description1": "Guest Speaker",
+        "description2": "Faculty of Mathematics and Physics of University of Lubiana",
+        "description3": "Vertex colored digraphs explained by phylogenetic trees",
+        "title_link": "",
+        "description_3_link": ""
+      },      
+      {
+        "title": "37th TBI Winterseminar in Bled 2023",
+        "description1": "Guest Speaker",
+        "description2": "Bompfünewerer Consortium",
+        "description3": "Quasi Best Match Graphs",
+        "title_link": "",
+        "description_3_link": ""
+      },
+      {
+        "title": "18th Herbstseminar der Bioinformatik 2022",
+        "description1": "Guest Speaker",
+        "description2": "Bioinformatics Group and Computational EvoDevo Group in Leipzig",
+        "description3": "How merging colors characterizes 3-BMGs",
+        "title_link": "",
+        "description_3_link": ""
+      },
+      {
+        "title": "European Women in Mathematics General Meeting 2022",
+        "description1": "Invited Minisymposium Speaker ",
+        "description2": "European Women in Mathematics",
+        "description3": "3 questions on higher-dimensional neuronal manifolds",
+        "title_link": "",
+        "description_3_link": ""
+      },
+      {
         "title": "28th Nordic Congress of Mathematicians(NCM28)",
-        "description1": "Invited talk: Three questions on higher-dimensional neuronal manifolds",
-        "description2": "Aalto University, Finland, August 18-21, 2022",
-        "description3": "",
+        "description1": "Invited Minisymposium Speaker",
+        "description3": "Aalto University, Finland, August 18-21, 2022",
+        "description2": "Shape & Linearity of neuronal manifolds",
         "title_link": "https://ncm28.math.aalto.fi/",
         "description_3_link": ""
       },

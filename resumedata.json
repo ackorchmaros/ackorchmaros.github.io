@@ -4,15 +4,15 @@
     "occupation": "Postdoctoral Researcher",
     "description": "For the last nine months I have been actively working on two projects in the applied non linear algebra group at Aalto. In my main project, I have been working in reconstructing the 3D DNA structure of diploid organisms using algebraic geometry and polynomial optimization techniques. I have been also working on estimating the dimensionality of the neuronal manifold in mice using an algebraic geometry approach. As side project I have been studying the structure of 2-colored best match graphs.",
     "image": "profilepic.jpg",
-    "bio": "Thank you for checking out my website. I have a master and doctoral degree in mathematics, and I am particularly interested in applying graph theory, algebraic geometry, and statistics to address issues in neuroscience and genetics. After finishing my doctoral degree, I moved to the US where I graduated with a master in bioinformatics and worked as neuroimaging data analyst for a year. I started my first post doctorate in mathematics in Finland, Aalto University, on December 2019 where I worked in applied non linear algebra and graph theory. I joined the Bioinformatics Leipzig group lead by Prof. Dr. Peter F Stadler in June 2021 to work on graphs and their applications to bioinformatics. Outside work I love spending time with friends and family, meditating, cycling, pilates, hiking, and all kind of outdoor activities.",
-    "contactmessage": "Thanks for stopping by! I am working at Leipzig University studying the structure of best match graphs, their generalizations, and their applications to bioinformatics. Feel free to contact me if you want to collaborate!",
+    "bio": "Thank you for checking out my website. I have a master and doctoral degree in mathematics, and I am particularly interested in applying graph theory, algebraic geometry, and statistics to address issues in neuroscience and genetics. After finishing my doctoral degree, I moved to the US where I graduated with a master in bioinformatics and worked as neuroimaging data analyst for a year. I started my first post doctorate in mathematics in Finland, Aalto University, on December 2019 where I worked in applied non linear algebra and graph theory. I joined the Bioinformatics Leipzig group lead by Prof. Dr. Peter F Stadler in June 2021 to work on graphs and their applications to estimate phylogenetic trees. Outside work I love spending time with friends and family, meditating, cycling, pilates, hiking, and all kind of outdoor activities.",
+    "contactmessage": "Thanks for stopping by! I am working at Leipzig University studying the structure of best match graphs, their generalizations, and their applications to estimate phylogenetic trees. Feel free to contact me if you want to collaborate!",
     "email": "annachiara@bioinf.uni-leipzig.de",
     "address": {
       "city": "Leipzig",
       "state": "Germany"
     },
-    "website": "http://www.annachiarakorchmaros.com",
-    "resumedownload": "./AnnachiaraResume2022.pdf",
+    "website": "http://www.akorchmaros.com",
+    "resumedownload": "./AnnachiaraKorchmaros2024.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -54,7 +54,7 @@
         "company": "Universität Leipzig, Leipzig, Germany",
         "title": "Postdoctoral Researcher",
         "years": "June 2021 - Present",
-        "description": "I have been working at Leipzig University with Prof. Dr. Peter F Stadler studying the structure of best match graphs, their generalizations, and their applications to bioinformatics."
+        "description": "I have been working at Leipzig University with Prof. Dr. Peter F Stadler studying the structure of best match graphs, their generalizations, and their applications to estimate phylogenetic trees."
       },
       {
         "company": "Aalto University, Helsinki, Finland",
@@ -72,12 +72,20 @@
         "company": "Georgia Institute of Technology, Atlanta, US",
         "title": "Graduate Teaching Assistant",
         "years": "August 2015 - August 2017",
-        "description": "Two years of helping students with learning calculus and discrete mathematics."
+        "description": "Planed and executed lessons for up to 60 students and graded all assignments and exams"
       }
     ],
     "skills": [
       {
+        "name": "GitHub",
+        "level": "100%"
+      },
+      {
         "name": "R",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
         "level": "100%"
       },
       {
@@ -85,20 +93,16 @@
         "level": "80%"
       },
       {
-        "name": "Magma",
-        "level": "70%"
+        "name": "Matlab",
+        "level": "80%"
       },
       {
-        "name": "Matlab",
+        "name": "Magma",
         "level": "70%"
       },
       {
         "name": "Macualay2",
         "level": "60%"
-      },
-      {
-        "name": "Python",
-        "level": "70%"
       },
       {
         "name": "FSL",
@@ -113,10 +117,34 @@
   "portfolio": {
     "publication": [
       {
+        "title": "Forbidden paths and cycles in the undirected underlying graph of a 2-quasi best match graph.",
+        "description1": "Korchmaros, A.",
+        "description2": "In press",
+        "link": "https://arxiv.org/abs/2408.09997"
+      },
+      {
+        "title": "Partial Fitch Graphs: Characterization, Satisfiability and Complexity",
+        "description1": "Korchmaros A, Hellmuth M, Ramírez-Rafael JA, Schmidt B, Stadler PF, Thekkumpadan Puthiyaveedu S.",
+        "description2": "Submitted",
+        "link": "https://doi.org/10.1101/2024.04.30.591842"
+      },
+      {
+        "title": "REvolutionH-tl: Reconstruction of Evolutionary Histories tool",
+        "description1": "Ramírez-Rafael JA, Korchmaros A, Aviña-Padilla K, López Sánchez A, España-Tinajero AA, Hellmuth M, Stadler PF, Hernández-Rosales M.",
+        "description2": "RECOMB International Workshop on Comparative Genomics (2024), 89-109",
+        "link": "https://doi.org/10.1007/978-3-031-58072-7_5"
+      },
+      {
+        "title": "3D genome reconstruction from partially phased Hi-C data",
+        "description1": "D. Cifuentes; J. Draisma, O. Henriksson; A. Korchmaros; K. Kubjas",
+        "description2": "Bull. Math. Biology 86.4 (2024), 1-30",
+        "link": "https://link.springer.com/article/10.1007/s11538-024-01263-7"
+      },
+      {
         "title": "Quasi-Best Match Graphs",
         "description1": "Korchmaros A, Schaller D, Hellmuth M, Stadler PF",
-        "description2": " arXiv preprint arXiv:2109.10235. 2021 Sep 21.",
-        "link": "https://arxiv.org/abs/2109.10235"
+        "description2": "Discrete Appl. Math. 331 (2023), 104-125",
+        "link": "https://doi.org/10.1016/j.dam.2023.01.015"
       },
       {
         "title": "The Structure of 2-Colored Best Match Graphs",
@@ -129,11 +157,6 @@
         "description1": "J. Cho; A. Korchmaros; J. Vogelstein; M. Milham; T. Xu",
         "description2": "Poster presented at: Organization of Human Brain Mapping 2020; June 2020; Virtual Conference",
         "link": "https://doi.org/10.1016/j.dam.2021.08.007"
-      },
-      {
-        "title": "Circles and Paths in 2-Colored Best Match Graphs",
-        "description1": "A. Korchmaros",
-        "description2": "arXiv doi:2006.04100."
       },
       {
         "title": "Impact of concatenating fMRI data on reliability for functional connectomics",
@@ -168,16 +191,110 @@
   "talks": {
     "talks": [
       {
+        "title": "Novel Mathematical Paradigm for Phylogenomics Workshop",
+        "description1": "Invited Speaker",
+        "description2": "Banff International Research Station for Mathematical Innovation and Discovery",
+        "description3": "August 24-29 2025",
+        "title_link": ""
+      },{
+        "title": "Computational Aspects of Large-Scale Problems in Discrete Mathematics Workshop",
+        "description1": "Contributed Talk - Forbidden paths and cycles in the undirected underlying graph of a 2-quasi best match graph",
+        "description2": "ITAT 2024",
+        "description3": "September 2024",
+        "title_link": ""
+      }, {
+        "title": "20th Herbstseminar der Bioinformatik 2024",
+        "description1": "",
+        "description2": "Bioinformatics Group and Computational EvoDevo Group in Leipzig",
+        "description3": "October 2024",
+        "title_link": ""
+      },
+      {
+        "title": "Workshop for Women in Algebraic Statistic",
+        "description1": "Contributed Talk - Graph families used to estimate gene and species trees",
+        "description2": "St John’s College, University of Oxford",
+        "description3": "July 2024",
+
+        "title_link": ""
+      },
+      {
+        "title": "Combinatorics 2024",
+        "description1": "Contributed Talk - Two-quasi best match graphs",
+        "description2": "Italian Institute of Mathematics (IndaM)",
+        "description3": "June 2024",
+
+        "title_link": ""
+      },{
+        "title": "Geometry of Complex Systems and Bioinformatics meeting",
+        "description1": "Invited Speaker - Dimension, linearity, and shape of neural manifolds",
+        "description2": "Interdisciplinary Center for Bioinformatics",
+        "description3": "February 2024",
+        "title_link": ""
+      },{
+        "title": "39th TBI Winterseminar in Bled",
+        "description1": "Contributed Talk - Xenology graph completion problem",
+        "description2": "Bompfünewerer Consortium",
+        "description3": "February 2024",
+        "title_link": ""
+      },{
+        "title": "Mathematics in Biology Day",
+        "description1": "Invited Speaker - A graph theoretic approach to estimate gene family histories",
+        "description2": "MPI Leipzig",
+        "description3": "December 2023",
+        "title_link": ""
+      },
+      {
+        "title": "19th Herbstseminar der Bioinformatik 2023",
+        "description1": "Contributed Talk - Orthology Pipeline: Project and Realization",
+        "description2": "Bioinformatics Group and Computational EvoDevo Group in Leipzig",
+        "description3": "October 2023",
+        "title_link": ""
+      },      
+      {
+        "title": "Hybrid: SIAM Conference on Applied Algebraic Geometry (AG23) 2023",
+        "description1": "Invited Minisymposium Speaker - How to 3D-reconstruct the genome from partially phased data",
+        "description2": "SIAM Activity Group on Algebraic Geometry",
+        "description3": "July 2023",
+        "title_link": ""
+      },      
+      {
+        "title": "10th Slovenian Conference on Graph Theory 2023",
+        "description1": "Contributed Talk - Vertex colored digraphs explained by phylogenetic trees",
+        "description2": "Faculty of Mathematics and Physics of University of Lubiana",
+        "description3": "June 2023",
+        "title_link": ""
+      },
+      {
+        "title": "38th TBI Winterseminar in Bled 2023",
+        "description1": "Contributed Talk - Quasi Best Match Graphs",
+        "description2": "Bompfünewerer Consortium",
+        "description3": "February 2023",
+        "title_link": ""
+      },
+      {
+        "title": "18th Herbstseminar der Bioinformatik 2022",
+        "description1": "Contributed Talk - How merging colors characterizes 3-BMGs",
+        "description2": "Bioinformatics Group and Computational EvoDevo Group in Leipzig",
+        "title_link": ""
+      },
+      {
+        "title": "European Women in Mathematics General Meeting 2022",
+        "description1": "Invited Minisymposium Speaker - 3 questions on higher-dimensional neuronal manifolds",
+        "description2": "European Women in Mathematics",
+        "description3": "October 2022",
+        "title_link": ""
+
+      },
+      {
         "title": "28th Nordic Congress of Mathematicians(NCM28)",
-        "description1": "Invited talk: Three questions on higher-dimensional neuronal manifolds",
+        "description1": "Invited Minisymposium Speaker - Shape & Linearity of neuronal manifolds",
         "description2": "Aalto University, Finland, August 18-21, 2022",
-        "description3": "",
-        "title_link": "https://ncm28.math.aalto.fi/",
-        "description_3_link": ""
+        "description3": "August 2022",
+        "title_link": "https://ncm28.math.aalto.fi/"
       },
       {
         "title": "Combinatorics 2022",
-        "description1": "Contributed talk: Best match graphs and generalizations",
+        "description1": "Contributed talk - Best match graphs and generalizations",
         "description2": "Mantua, Italy, May 30 - June 3, 2022",
         "description3": "Presentation Slides",
         "title_link": "https://combinatorics2022.unibs.it/",
@@ -186,7 +303,7 @@
       {
         "title": "SIAM Conference on Applied Algebraic Geometry (AG21)",
         "description1": "Scientific organizer of the minisymposium Algebraic Geometry of Biomedical Data",
-        "description2": "together with Lisa Lamberti and Marta Panizzut",
+        "description2": "Together with Lisa Lamberti and Marta Panizzut",
         "description3": "August 16-20, 2021",
         "title_link": "https://www.siam.org/conferences/cm/conference/ag21",
         "description_3_link": ""
@@ -201,7 +318,7 @@
       },
       {
         "title": "Algebra and Discrete Mathematics Seminar",
-        "description1": "Guest Speaker - Colored Best Match Graphs",
+        "description1": "Contributed Talk - Colored Best Match Graphs",
         "description2": "Department of Mathematics and Systems Analysis of Aalto University",
         "description3": "January 2020",
         "title_link": "",
@@ -209,7 +326,7 @@
       },
       {
         "title": "Georgia Tech Combinatorics Seminar",
-        "description1": "Guest Speaker - Combinatorial Properties of Block Transpositions in Symmetric Groups",
+        "description1": "Contributed Talk - Combinatorial Properties of Block Transpositions in Symmetric Groups",
         "description2": "Department of Mathematics of Georgia Institute of Technology",
         "description3": "May 2015",
         "title_link": "http://www.math.fau.edu/combinatorics2021/index.php",
@@ -217,7 +334,7 @@
       },
       {
         "title": "Combinatorics 2014",
-        "description1": "Guest Speaker - Block transposition diameter of the symmetric group",
+        "description1": "Contributed Talk - Block transposition diameter of the symmetric group",
         "description2": "Italian Institute of Mathematics (IndaM)",
         "description3": "June 2014",
         "title_link": "",
@@ -225,7 +342,7 @@
       },
       {
         "title": "45th Southeastern International Conference on Combinatorics",
-        "description1": "Guest Speaker - On the block transposition diameter of permutations",
+        "description1": "Contributed Talk - On the block transposition diameter of permutations",
         "description2": "National Security Agency and Institute of Combinatorics and its Applications",
         "description3": "March 2014",
         "title_link": "",
